@@ -1,0 +1,28 @@
+body {
+
+    color:white;
+    background-color: black;
+    font-family: monospace;
+    font-size:large;
+
+}
+
+img {
+    border-radius: 50%;
+    border: 5px solid rgba(202, 192, 192, 0.61);
+}
+
+
+h3{
+
+    color:rgba(202, 192, 192, 0.61);
+}
+
+.center {
+    text-align: center;
+}
+
+ul {
+    
+    padding: 20px;
+}
